@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Commissioner';
+    src: url('Commissioner-Light.eot');
+    src: url('Commissioner-Light.eot?#iefix') format('embedded-opentype'),
+        url('Commissioner-Light.woff2') format('woff2'),
+        url('Commissioner-Light.woff') format('woff'),
+        url('Commissioner-Light.ttf') format('truetype'),
+        url('Commissioner-Light.svg#Commissioner-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+

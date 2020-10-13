@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Commissioner';
+    src: url('../fonts/Commissioner/Commissioner-Light.eot');
+    src: url('../fonts/Commissioner/Commissioner-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Commissioner/Commissioner-Light.woff2') format('woff2'),
+        url('../fonts/Commissioner/Commissioner-Light.woff') format('woff'),
+        url('../fonts/Commissioner/Commissioner-Light.ttf') format('truetype'),
+        url('../fonts/Commissioner/Commissioner-Light.svg#Commissioner-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piazzolla';
+    src: url('../fonts/Piazzolla/Piazzolla-ExtraLight.eot');
+    src: url('../fonts/Piazzolla/Piazzolla-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Piazzolla/Piazzolla-ExtraLight.woff2') format('woff2'),
+        url('../fonts/Piazzolla/Piazzolla-ExtraLight.woff') format('woff'),
+        url('../fonts/Piazzolla/Piazzolla-ExtraLight.ttf') format('truetype'),
+        url('../fonts/Piazzolla/Piazzolla-ExtraLight.svg#Piazzolla-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}

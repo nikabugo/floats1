@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Piazzolla';
+    src: url('Piazzolla-ExtraLight.eot');
+    src: url('Piazzolla-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Piazzolla-ExtraLight.woff2') format('woff2'),
+        url('Piazzolla-ExtraLight.woff') format('woff'),
+        url('Piazzolla-ExtraLight.ttf') format('truetype'),
+        url('Piazzolla-ExtraLight.svg#Piazzolla-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
